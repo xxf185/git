@@ -48,6 +48,8 @@ git rm 要删除的文件名
 
 git rm -r 要删除的文件夹名
 
+git push origin --delete 要删除的分支名
+
 5.提交操作说明
 
 git commit -m 'xxf'
